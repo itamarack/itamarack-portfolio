@@ -1,0 +1,24 @@
+{
+    "extends": [],
+    "plugins": [
+      "react"
+    ],
+    "env": {
+      "browser": true,
+      "node": true,
+      "es6": true
+    },
+    "parserOptions": {
+      "ecmaVersion":  2021,
+      "sourceType": "module",
+      "ecmaFeatures": {
+        "jsx": true
+      }
+    },
+    "rules": {},
+    "settings": {
+      "react": {
+        "version": "detect"
+      }
+    }
+  }
